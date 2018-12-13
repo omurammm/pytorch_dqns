@@ -1,6 +1,6 @@
-# rl_implementation
+# pytorch_dqns
 
-Implementation of DQNs.
+This repo is pytorch implementation of DQNs.
 
 Environment : 
 [OpenAI Gym Atari 2600 games](https://gym.openai.com/envs/#atari)
